@@ -1,5 +1,5 @@
 {
-    "CHATGPT_MODEL":"<ChatGPT Model Name>",
-    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>"
+    "CHATGPT_MODEL":"demolabsmsneards",
+    "OPENAI_API_BASE":"https://demomseard.openai.azure.com",
+    "OPENAI_API_VERSION":"2023-05-15"
 }

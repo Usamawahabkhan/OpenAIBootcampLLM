@@ -1,5 +1,5 @@
 {
-    "EMBEDDINGS_MODEL": "<Embeddings Model Name>",
-    "OPENAI_API_BASE": "https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION": "<OpenAI API Version>"
+    "EMBEDDINGS_MODEL": "embeddingdemousbootcamp",
+    "OPENAI_API_BASE": "https://demomseard.openai.azure.com",
+    "OPENAI_API_VERSION": "2022-12-01"
 }

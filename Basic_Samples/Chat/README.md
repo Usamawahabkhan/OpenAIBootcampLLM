@@ -28,7 +28,7 @@ One can get the OPENAI_API_KEY value from the Azure Portal. Go to https://portal
  Steps to set the key in the environment variables:        
 
       WINDOWS Users: 
-         setx OPENAI_API_KEY "REPLACE_WITH_YOUR_KEY_VALUE_HERE"
+         setx OPENAI_API_KEY "36d0f6811a1c4d56a6805aabc4ecd023"
 
       MACOS/LINUX Users: 
          export OPENAI_API_KEY="REPLACE_WITH_YOUR_KEY_VALUE_HERE"
