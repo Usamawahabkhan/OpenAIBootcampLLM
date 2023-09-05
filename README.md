@@ -2,11 +2,19 @@
   > [Note]
   > **This repository is a work in progress and will be updated frequently with changes.**
 
-# Welcome
-This repo is a compilation of useful [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service) resources and code samples to help you get started and accelerate your technology adoption journey.
+# Welcome To Azure Open AI and LLM Bootcamp content repo
+This is a content repository for the Azure Open AI and LLM Bootcamp, where you can find all the code and resources for the hands-on sessions. The boot camp is designed to help you learn how to use Azure Open AI and LLM services to build intelligent applications that can understand natural language, generate text, analyze images, and more. You will also learn how to use the latest tools and frameworks to create, train, and deploy your own models on Azure. Whether you are a beginner or an expert, this boot camp will give you the skills and knowledge you need to leverage the power of Azure Open AI and LLM.
 
-The Azure OpenAI service provides REST API access to OpenAI's powerful language models on the Azure cloud. These models can be easily adapted to your specific task including but not limited to content generation, summarization, semantic search, and natural language to code translation. Users can access the service through REST APIs, Python SDK, or our web-based interface in the Azure OpenAI Studio.
+# Lab code and Samples
 
+This repository contains samples demonstrating how to use GPT and ChatGPT via Python SDK or REST API. 
+
+* Basic samples: Contain all the Labs and exercises for ChatGPT, Embedding, Pinecone, Llama, etc 
+* End to end solutions: These are complete solutions for some usen cases and industry scenarios. These include appropriate workflows and reference architectures, which can be easily customized and built into full scale production systems.
+
+## Requirements
+Python 3.8+ <br>
+Jupyter Notebook 6.5.2 
 # Get started
 * [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 * [Underlying models that power the Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/models)
@@ -14,11 +22,6 @@ The Azure OpenAI service provides REST API access to OpenAI's powerful language 
   - [How to create an Azure OpenAI Service resource](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/create-resource?pivots=web-portal)
   - [Quickstart: how to get started generating text](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=programming-language-studi)
 * Read the statement on responsible use of OpenAI [here](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview#responsible-ai). Also, visit the [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?rtc=1&activetab=pivot1:primaryr6) site to learn more about Microsoft’s principles for responsible AI use.
-
-# The Azure OpenAI Service promise
-Azure OpenAI Service gives customers advanced language AI with OpenAI GPT-3, Codex, and DALL-E models with the security and enterprise promise of Azure. Azure OpenAI co-develops the APIs with OpenAI, ensuring compatibility and a smooth transition from one to the other.
-
-With Azure OpenAI Service, customers get the security capabilities of Microsoft Azure while running the same models as OpenAI. Azure OpenAI Service offers private networking, regional availability, and responsible AI content filtering.
 
 # Important concepts and terminology
 
@@ -93,30 +96,7 @@ To learn more visit [Azure OpenAI Service models](https://learn.microsoft.com/en
 
 
 
-
-
-# Responsible AI with the Azure OpenAI Service
-At Microsoft, we're committed to the advancement of AI driven by principles that put people first. Generative models such as the ones available in Azure OpenAI Service have significant potential benefits, but without careful design and thoughtful mitigations, such models have the potential to generate incorrect or even harmful content. Microsoft has made significant investments to help guard against abuse and unintended harm, which includes requiring applicants to show well-defined use cases, incorporating Microsoft’s [principles for responsible AI use](https://www.microsoft.com/ai/responsible-ai?activetab=pivot1:primaryr6), building content filters to support customers, and providing responsible AI implementation guidance to onboarded customers.
-
-More details on the RAI guidelines for the Azure OpenAI Service can be found [here](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=/azure/cognitive-services/openai/context/context).
-
-# Azure OpenAI Service Samples
-
-This repository contains samples demonstrating how to use GPT and ChatGPT via Python SDK or REST API. It also contains samples and guidelines to create more end to end scenario based solutions using the Azure OpenAI Service.
-
-* Basic samples: These are small code samples and snippets which complete small sets of actions and can be integrated into the user code.
-* End to end solutions: These are complete solutions for some usen cases and industry scenarios. These include appropriate workflows and reference architectures, which can be easily customized and built into full scale production systems.
-
-## Requirements
-Python 3.8+ <br>
-Jupyter Notebook 6.5.2
+ 
 
 <br>
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Contact  [(usama wahab khan)https://twitter.com/usamawahabkhan]
