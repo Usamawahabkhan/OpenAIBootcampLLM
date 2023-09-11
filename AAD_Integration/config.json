@@ -1,0 +1,5 @@
+{
+    "COMPLETIONS_MODEL":"demolabsmsneards",
+    "OPENAI_API_BASE":"https://demomseard.openai.azure.com",
+    "OPENAI_API_VERSION":"2023-05-15"
+}

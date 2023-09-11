@@ -1,0 +1,5 @@
+{
+    "EMBEDDINGS_MODEL": "embeddingdemousbootcamp",
+    "OPENAI_API_BASE": "https://demomseard.openai.azure.com",
+    "OPENAI_API_VERSION": "2022-12-01"
+}
